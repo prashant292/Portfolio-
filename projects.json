@@ -1,0 +1,152 @@
+[
+  {
+    "name": "GameStash",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "gamestash",
+    "category": "mern",
+    "links": {
+      "view": "https://game-stack-prashant-jtop.vercel.app/",
+      "code": "https://github.com/jigar-sable/notystack-android"
+    }
+  },
+  {
+    "name": "Cara's Secret",
+    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+    "image": "cara secret",
+    "category": "mern",
+    "links": {
+      "view": "https://caras-secret.netlify.app/",
+      "code": "https://github.com/jigar-sable/sppu-prep-android"
+    }
+  },
+  {
+    "name": "Organic Clone",
+    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "image": "organic clone",
+    "category": "mern",
+    "links": {
+      "view": "https://organic-cotton-mart-clone-prashant.netlify.app",
+      "code": "https://github.com/jigar-sable/newsbox-android"
+    }
+  },
+  {
+    "name": "Portfolio",
+    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "image": "portfolio (2)",
+    "category": "mern",
+    "links": {
+      "view": "https://personal-portfolio-website-virid.vercel.app/",
+      "code": "https://github.com/jigar-sable/weatherly-android"
+    }
+  },
+  {
+    "name": "Dribbble Clone",
+    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "image": "dribble ui",
+    "category": "mern",
+    "links": {
+      "view": "https://dribble-ui-prashant.netlify.app/",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "Learn Edu",
+    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "image": "learn edu",
+    "category": "mern",
+    "links": {
+      "view": "https://learnedu.netlify.app/",
+      "code": "https://github.com/jigar-sable/flipkart-mern"
+    }
+  },
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "jspro",
+    "category": "mern",
+    "links": {
+      "view": "https://jigar-sable.github.io/JavaScript-Projects",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+    }
+  },
+  {
+    "name": "Miney Web App",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "miney",
+    "category": "mern",
+    "links": {
+      "view": "https://miney-by-prashant.netlify.app/",
+      "code": "https://github.com/jigar-sable/resumegen"
+    }
+  },
+  {
+    "name": "SideCup",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "sidecup",
+    "category": "mern",
+    "links": {
+      "view": "https://sidcup-family-golf-clone-prashant.netlify.app/",
+      "code": "https://github.com/jigar-sable/React-Projects"
+    }
+  },
+  {
+    "name": "Omni Food",
+    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
+    "image": "omni food",
+    "category": "basicweb",
+    "links": {
+      "view": "https://food-sites-ui-prashant.netlify.app/",
+      "code": "https://github.com/jigar-sable/WebChat"
+    }
+  },
+  {
+    "name": "PT-Care",
+    "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
+    "image": "pt-care",
+    "category": "basicweb",
+    "links": {
+      "view": "https://ptcare.netlify.app/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Fit-Nex",
+    "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
+    "image": "fit-nex",
+    "category": "basicweb",
+    "links": {
+      "view": "https://fit-nex.netlify.app/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Quick Talk",
+    "desc": "Basic KIA webpage displays the info about seltos product range. Specs and Image Gallery.",
+    "image": "quicktalk",
+    "category": "basicweb",
+    "links": {
+      "view": "https://quicktalk-prashant.netlify.app/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Wheather",
+    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
+    "image": "weather",
+    "category": "basicweb",
+    "links": {
+      "view": "https://weather-sites-prashant.netlify.app/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Excel Clone",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "excelclone",
+    "category": "basicweb",
+    "links": {
+      "view": "https://prashantexcelclone.netlify.app/",
+      "code": "#"
+    }
+  }
+]
